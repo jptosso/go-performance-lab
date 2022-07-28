@@ -17,6 +17,6 @@
 $ git clone https://github.com/jptosso/go-performance-lab
 $ cd go-performance-lab
 $ go test -bench=. .
-`
+```
 
 You may also add `-memprofile filename` to write pprof compatible profiles.
